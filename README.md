@@ -1,7 +1,7 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 17-8-26
-### Name : Sushmitha Gembunathan
-### Register no. : 212224040342
+### DATE: 21-8-26
+### Name : CHITTOOR SARAVANA MRUDHULA
+### Register no. : 212224040056
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
